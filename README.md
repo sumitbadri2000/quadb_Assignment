@@ -1,3 +1,44 @@
+# Assignment
+
+## Deployed Link:- [https://jobapply.vercel.app/](https://quadb-two.vercel.app/)
+
+## Assignment Overview
+
+This project was completed within 1 day.
+
+- first step login/signup functionality beacause without login user cannot access other pages.
+- Use local storage to store token.
+- Create a Home page and show data based on programming language.
+- Fetch job data in home page.
+- And user allow to view Full details.
+- Users apply for a job with their details and resume.
+
+
+## TechStack
+
+This project is built with this technologies:
+
+- Local Storage
+- React
+- axios
+- Redux
+- React-Router-Dom
+- Chakra-Ui
+
+
+
+
+ ## Routes
+
+- Login Page: `/login`
+- Signup Page: `/signup`
+- Landing Page: `/`
+- Job Details: `/jobDetails/:id`
+- Success Page: `/success`
+
+
+
+
 ![Screenshot (33)](https://github.com/sumitbadri2000/quadb_Assignment/assets/110050319/cde5efbf-b1d3-4b5c-b405-b682f95e1144)
 
 # Signup Page
