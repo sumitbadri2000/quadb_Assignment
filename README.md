@@ -1,6 +1,6 @@
 # Assignment
 
-## Deployed Link:- [https://jobapply.vercel.app/](https://quadb-two.vercel.app/)
+## Deployed Link:- https://quadb-two.vercel.app/
 
 ## Assignment Overview
 
